@@ -4,16 +4,10 @@
 
 <p align="center">
   <img
-    width="100%"
-    height="5"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:14B8A6,50:0891B2,100:22D3EE"
-    alt="Header"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=1&pause=999999&color=E6EDF3&center=true&vCenter=true&repeat=false&width=900&height=58&lines=Hey!+I'm+Claudio+%22Nacho%22+Tapia+%F0%9F%91%8B"
+    alt="Claudio Nacho Tapia"
   />
 </p>
-
-<h1 align="center">
-  Hey! I'm Claudio "Nacho" Tapia 👋
-</h1>
 
 <h3 align="center">
   ⚡ Electronics Engineer | Embedded Systems · Firmware · Robotics · IoT
@@ -21,7 +15,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=850&height=30&lines=From+schematics+and+code+to+working+physical+systems.;Building+embedded+systems+that+interact+with+the+real+world.;Build+%C2%B7+Measure+%C2%B7+Validate+%C2%B7+Improve."
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&height=32&lines=From+schematics+and+code+to+working+physical+systems.;Building+embedded+systems+that+interact+with+the+real+world.;Build+%C2%B7+Measure+%C2%B7+Validate+%C2%B7+Improve."
     alt="Engineering mindset"
   />
 </p>
@@ -47,17 +41,11 @@ I'm an **Electronics Engineer** focused on **embedded systems, firmware, hardwar
 ## ⚙️ What I Work On
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/⚡%20Embedded%20Systems%20%26%20Firmware-0F766E?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🔧%20Hardware%20%26%20PCB%20Design-0891B2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/📡%20IoT%20%26%20Wireless%20Systems-0F766E?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🤖%20Robotics%20%26%20Autonomous%20Systems-0891B2?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/🎛️%20Control%20%26%20Motor%20Control-0F766E?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Embedded%20Systems%20%26%20Firmware-0F766E?style=for-the-badge" alt="Embedded Systems & Firmware" />
+  <img src="https://img.shields.io/badge/Hardware%20%26%20PCB%20Design-0891B2?style=for-the-badge" alt="Hardware & PCB Design" />
+  <img src="https://img.shields.io/badge/IoT%20%26%20Wireless%20Systems-0F766E?style=for-the-badge" alt="IoT & Wireless Systems" />
+  <img src="https://img.shields.io/badge/Robotics%20%26%20Autonomous%20Systems-0891B2?style=for-the-badge" alt="Robotics & Autonomous Systems" />
+  <img src="https://img.shields.io/badge/Control%20%26%20Motor%20Control-0F766E?style=for-the-badge" alt="Control & Motor Control" />
 </p>
 
 ---
@@ -65,21 +53,19 @@ I'm an **Electronics Engineer** focused on **embedded systems, firmware, hardwar
 ## 🔩 Engineering Workflow
 
 <p align="center">
-
-⚡ **Electronics**
-&nbsp;→&nbsp;
-🔧 **PCB Design**
-&nbsp;→&nbsp;
-💻 **Firmware**
-&nbsp;→&nbsp;
-📡 **Connectivity**
-&nbsp;→&nbsp;
-🎛️ **Control**
-&nbsp;→&nbsp;
-🤖 **Real System**
-&nbsp;→&nbsp;
-✅ **Validation**
-
+  ⚡ <b>Electronics</b>
+  &nbsp;→&nbsp;
+  🔧 <b>PCB Design</b>
+  &nbsp;→&nbsp;
+  💻 <b>Firmware</b>
+  &nbsp;→&nbsp;
+  📡 <b>Connectivity</b>
+  &nbsp;→&nbsp;
+  🎛️ <b>Control</b>
+  &nbsp;→&nbsp;
+  🤖 <b>Real System</b>
+  &nbsp;→&nbsp;
+  ✅ <b>Validation</b>
 </p>
 
 <p align="center">
@@ -140,19 +126,17 @@ I'm an **Electronics Engineer** focused on **embedded systems, firmware, hardwar
 ### 🧠 AI-Assisted Engineering
 
 <p align="center">
-
-🤖 <code>AI Agents</code>
-&nbsp;·&nbsp;
-🟠 <code>Claude Code</code>
-&nbsp;·&nbsp;
-💬 <code>ChatGPT</code>
-&nbsp;·&nbsp;
-✨ <code>Gemini</code>
-&nbsp;·&nbsp;
-🧩 <code>Codex</code>
-&nbsp;·&nbsp;
-🔁 <code>Multi-Agent Workflows</code>
-
+  🤖 <code>AI Agents</code>
+  &nbsp;·&nbsp;
+  🟠 <code>Claude Code</code>
+  &nbsp;·&nbsp;
+  💬 <code>ChatGPT</code>
+  &nbsp;·&nbsp;
+  ✨ <code>Gemini</code>
+  &nbsp;·&nbsp;
+  🧩 <code>Codex</code>
+  &nbsp;·&nbsp;
+  🔁 <code>Multi-Agent Workflows</code>
 </p>
 
 ---
@@ -168,27 +152,43 @@ I'm an **Electronics Engineer** focused on **embedded systems, firmware, hardwar
 
 ---
 
-## 👾 Contribution Arcade
+## 🌌 Pixel Lab
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Nachoo-tp-me/Nachoo-tp-me/output/pacman-contribution-graph-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Nachoo-tp-me/Nachoo-tp-me/output/pacman-contribution-graph.svg"
-    />
-    <img
-      alt="Pac-Man contribution graph"
-      src="https://raw.githubusercontent.com/Nachoo-tp-me/Nachoo-tp-me/output/pacman-contribution-graph.svg"
-    />
-  </picture>
+  <img src="assets/nacho-pixel-lab.gif" alt="Nacho Pixel Lab" width="100%" />
 </p>
 
 <p align="center">
-  🎮 <i>Powered by my GitHub contribution history.</i>
+  <sub>Pixel-art version of my embedded / robotics workspace.</sub>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nachoo-tp-me/Nachoo-tp-me/main/profile-summary-card-output/github_dark/0-profile-details.svg"
+    width="100%"
+    alt="GitHub Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Nachoo-tp-me/Nachoo-tp-me/main/profile-summary-card-output/github_dark/3-stats.svg"
+    width="49%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Nachoo-tp-me/Nachoo-tp-me/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    width="49%"
+    alt="Most Commit Languages"
+  />
+</p>
+
+<p align="center">
+  <sub>📈 Public + private activity aggregated without exposing private repository details.</sub>
 </p>
 
 ---
@@ -196,17 +196,11 @@ I'm an **Electronics Engineer** focused on **embedded systems, firmware, hardwar
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/claudio-tapia-quiroz-a01420276/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:claudiotapiaquirozi@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Send%20me%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    width="100%"
-    height="3"
-    src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:0891B2,100:14B8A6"
-    alt="Footer"
-  />
+  <a href="https://www.linkedin.com/in/claudio-tapia-quiroz-a01420276/">
+    <img src="https://img.shields.io/badge/LinkedIn-Claudio%20Tapia%20Quiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:claudiotapiaquirozi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send%20me%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
