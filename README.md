@@ -155,7 +155,7 @@ I'm an **Electronics Engineer** focused on **embedded systems, firmware, hardwar
 ## 🌌 Pixel Lab
 
 <p align="center">
-  <img src="assets/nacho-pixel-lab.gif" alt="Nacho Pixel Lab" width="100%" />
+  <img src="gif2.gif" alt="Nacho Pixel Lab" width="100%" />
 </p>
 
 <p align="center">
