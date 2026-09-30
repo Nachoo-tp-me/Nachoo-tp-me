@@ -196,23 +196,8 @@ I'm an **Electronics Engineer** focused on **embedded systems, firmware, hardwar
 ## 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/claudio-tapia-quiroz-a01420276/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Claudio%20Tapia%20Quiroz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:claudiotapiaquirozi@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Gmail-claudiotapiaquirozi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/claudio-tapia-quiroz-a01420276/"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="mailto:claudiotapiaquirozi@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-Send%20me%20a%20message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br>
